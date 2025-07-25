@@ -1,4 +1,4 @@
-## End-to-End Bank Application Deployment using DevSecOps on AWS EKS
+## Bank Application Deployment using DevOps Docker on AWS
 - This is a multi-tier bank an application written in Java (Springboot).
 
 ![Login diagram](images/login.png)
